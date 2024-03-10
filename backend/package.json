@@ -1,0 +1,16 @@
+{
+  "name": "task-management-backend-repo",
+  "version": "1.0.0",
+  "description": "the backend repository which services the task management application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "justina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "joi": "^17.12.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
